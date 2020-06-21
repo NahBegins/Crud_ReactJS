@@ -1,0 +1,15 @@
+header.header {
+    margin: auto 8px;
+    background-color: transparent;
+    padding: 0px 15px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+header.header h1 {
+    font-size: 1.8em;
+}
+
+header.header h1 i {
+    margin-right: 10px;
+}

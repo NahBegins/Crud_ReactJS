@@ -1,0 +1,11 @@
+footer.footer {
+    margin: 5px 0px;
+    text-align: center;
+    align-items: center;
+    padding: 0px 15px;
+    background-color: transparent;
+}
+
+footer.footer span:hover {
+    opacity: 0.5;
+}
